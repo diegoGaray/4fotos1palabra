@@ -1,8 +1,8 @@
 Android
 PlayerPath?
-C:/Users/dgara/Desktop/UnityProject/BaseMultidex2019/sdfbgfd.apk
+C:/Users/dgara/Desktop/4fotos1palabra/4Fotos1PalabraUpdate/dfghjht.apk
 SceneListBegin?
-Assets/Game/Scenes/LogIn.unity
+Assets/Pics Quiz Maker 2/Scenes/Quiz.unity
 SceneListEnd?
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 01aa15e337e3a9c62f15153dfac6d589 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
@@ -240,3 +240,8 @@ ea9f6f5bb33fc9202a8526587887a464 Assembly-CSharp.dll:.PerformanceObscuredTests
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.OneSignal
 1c02646323140d64b58bbd40d1805261 Assembly-CSharp.dll:CodeStage.AntiCheat.Detectors.WallHackDetector
 ce51ab3c9a77fa3d52c480221c7624c7 Assembly-CSharp.dll:.SelectCategory
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.AdEventBehaviour
+e50e028b4d1a05f4b768c9cad4812170 Assembly-CSharp.dll:.EasyGoogleMobileAds
+ed0eda78cf5e7e1db9479f074849d06b Assembly-CSharp.dll:.ShareButton
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp-firstpass.dll:.GuiManager
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp-firstpass.dll:.AndroidDialogAndToastBinding

@@ -21,10 +21,10 @@ public class AdsIntersticialControl : MonoBehaviour {
 
 	void Start () {
 	
-		//EasyGoogleMobileAds.GetInterstitialManager().SetTestDevices(true, testDeviceIDs);
+		EasyGoogleMobileAds.GetInterstitialManager().SetTestDevices(true, testDeviceIDs);
 		
 		#if UNITY_ANDROID
-		//EasyGoogleMobileAds.GetInterstitialManager().PrepareInterstitial(idAd);
+		EasyGoogleMobileAds.GetInterstitialManager().PrepareInterstitial(idAd);
 		#elif UNITY_IOS
 		EasyGoogleMobileAds.GetInterstitialManager().PrepareInterstitial(idAd);
 		#endif
@@ -36,7 +36,7 @@ public class AdsIntersticialControl : MonoBehaviour {
 
 		if (levelsPlayed == 2)
 		{
-			//EasyGoogleMobileAds.GetInterstitialManager().ShowInterstitial();
+			EasyGoogleMobileAds.GetInterstitialManager().ShowInterstitial();
 			levelsPlayed = 0;
 		}
 
@@ -59,7 +59,7 @@ public class AdsIntersticialControl : MonoBehaviour {
 					if (!clicInPlay)
 					{
 						clicInPlay = true;
-						//EasyGoogleMobileAds.GetInterstitialManager().ShowInterstitial();
+						EasyGoogleMobileAds.GetInterstitialManager().ShowInterstitial();
 
 					}
 					
